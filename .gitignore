@@ -1,3 +1,4 @@
 # Windows
 cmake-build-debug
-CMakeNode.txt
+CMakeLists.txt
+.idea
